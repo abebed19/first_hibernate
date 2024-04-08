@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="hibernate-commons-annotations-6.0.6.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/hibernate-commons-annotations-6.0.6.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/angus-activation-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/jakarta.transaction-api-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/jaxb-runtime-4.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/txw2-4.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/hibernate-core-6.5.0.CR1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/istack-commons-runtime-4.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/byte-buddy-1.14.12.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/jakarta.inject-api-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/jakarta.xml.bind-api-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/jakarta.activation-api-2.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/jandex-3.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/antlr4-runtime-4.13.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/jakarta.persistence-api-3.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/jaxb-core-4.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/jboss-logging-3.5.0.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate core/classmate-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
